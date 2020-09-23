@@ -6,7 +6,7 @@
 
 ## Preview
 
-[Live Demo](https://choosealicense.com/licenses/mit/)
+[Live Demo](https://rizwanellahi.github.io/section-navigation/)
 
 ## Install
 
