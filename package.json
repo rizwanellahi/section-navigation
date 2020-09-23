@@ -1,0 +1,40 @@
+{
+  "name": "section-navigation",
+  "version": "1.0.0",
+  "description": "Smooth scroll between sections and active sections on the page based on scrolling.",
+  "main": "index.html",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "browser-sync": "^2.26.10",
+    "del": "latest",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "latest",
+    "gulp-concat": "latest",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "latest",
+    "gulp-uglify": "latest",
+    "merge-stream": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/rizwanellahi/section-navigation",
+  "keywords": [
+    "Section",
+    "Navigation",
+    "Navigation",
+    "Menu",
+    "Smooth",
+    "Scroll"
+  ],
+  "author": "Rizwan Ellahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizwanellahi/section-navigation/issues"
+  },
+  "homepage": "https://github.com/rizwanellahi/section-navigation#readme"
+}
