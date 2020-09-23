@@ -4,6 +4,8 @@
 
 Smooth scroll between sections and active sections on the page based on scrolling.
 
+![Section Navigation](https://media.giphy.com/media/jl2amzWl6tX2ZtCpAH/giphy.gif)
+
 ## Usage
 
 ```html
