@@ -36,5 +36,8 @@
   "bugs": {
     "url": "https://github.com/rizwanellahi/section-navigation/issues"
   },
-  "homepage": "https://github.com/rizwanellahi/section-navigation#readme"
+  "homepage": "https://github.com/rizwanellahi/section-navigation#readme",
+  "dependencies": {
+    "section-navigation": "^1.0.0"
+  }
 }
